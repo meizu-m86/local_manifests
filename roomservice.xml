@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="LINGJP" fetch="http://git.kuailexs.com" />
+
+  <project name="LINGJP/android_device_meizu_m86" path="device/meizu/m86" remote="LINGJP" revision="cm-14.1-latest" />
+  <project name="LINGJP/android_kernel_meizu_m86" path="kernel/meizu/m86" remote="LINGJP" revision="cm-14.1" />
+  <project name="LINGJP/android_vendor_meizu_m86" path="vendor/meizu/m86" remote="LINGJP" revision="cm-14.1" />
+
+</manifest>
