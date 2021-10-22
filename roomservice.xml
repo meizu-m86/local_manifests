@@ -5,5 +5,6 @@
   <project name="meizu-m86/android_kernel_meizu_m86" path="kernel/meizu/m86" />
   <project name="meizu-m86/android_vendor_meizu_m86" path="vendor/meizu/m86" />
   <project name="meizu-m86/android_external_glib" path="external/glib" revision="cm-9.1.0" />
+  <project name="meizu-m86/android_hardware_samsung_slsi-cm" path="hardware/samsung_slsi-cm" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" />
 </manifest>
