@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project name="meizu-m86/android_device_meizu_m86" path="device/meizu/m86" revision="halium-7.1" />
-  <project name="meizu-m86/android_kernel_meizu_m86" path="kernel/meizu/m86" revision="halium-7.1" />
-  <project name="meizu-m86/android_vendor_meizu_m86" path="vendor/meizu/m86" revision="halium-7.1" />
-  <project name="meizu-m86/android_external_glib" path="external/glib" revision="cm-9.1.0" />
+  <project name="meizu-m86/android_device_meizu_m86" path="device/meizu/m86" remote="hal" revision="halium-7.1" />
+  <project name="meizu-m86/android_kernel_meizu_m86" path="kernel/meizu/m86" remote="hal" revision="halium-7.1" />
+  <project name="meizu-m86/android_vendor_meizu_m86" path="vendor/meizu/m86" remote="hal" revision="halium-7.1" />
+  <project name="meizu-m86/android_external_glib" path="external/glib" remote="hal" revision="cm-9.1.0" />
 </manifest>

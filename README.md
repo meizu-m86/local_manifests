@@ -1,9 +1,9 @@
 # local_manifests
 
-## LineageOS cm-14.1
+## Halium halium-7.1
 
 ```
-repo init -u https://github.com/LineageOS/android -b cm-14.1
+repo init -u https://github.com/Halium/android -b halium-7.1
 ```
 
 ### 打补丁，执行 apply.sh
